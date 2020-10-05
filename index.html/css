@@ -1,0 +1,29 @@
+<!DOSTYPE HTML>
+<htlm>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="utf-8">
+<title>Moudle2 </title>
+<link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+
+<h1> moda da food </h1>
+
+
+<div class="row">
+
+<div id="sec1" class="col-lg-3 col-md-6 col-sm-12"><div class="divs"> <p class="title"> sushi </p><section class="flow"> <p class="content">
+  is not a good opion to eat in Turkey
+
+</p></section></div></div>
+
+<div id="sec2" class="col-lg-3 col-md-6 col-sm-12"> <div class="divs"><p class="title"> beef </p> <section class="flow"><p class="content">
+  you have to try it in our restaurant </p></section></div></div>
+<div id="sec3" class="col-lg-3 col-md-6 col-sm-12"><div class="divs"> <p class="title"> soup </p><section class="flow"> <p class="content">
+i dont know about this one but it will nice to have it before beef
+</p> </section></div></div>
+</div>
+
+</body>
+</html>
